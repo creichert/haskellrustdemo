@@ -1,0 +1,9 @@
+[package]
+name = "rslib"
+version = "0.1.0"
+authors = [ "creichert07@gmail.com" ]
+
+[lib]
+name = "rslib"
+path = "lib.rs"
+crate-type = ["dylib", "staticlib"]

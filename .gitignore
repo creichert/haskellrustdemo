@@ -1,0 +1,7 @@
+target/
+dist/
+Rust
+rust
+*_stub.h
+rust-c
+Rust-static
