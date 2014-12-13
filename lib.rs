@@ -14,7 +14,6 @@ pub fn rs_register(cb: extern fn(c_int)) {
 }
 
 
-/* Register the callback */
 #[no_mangle]
 pub fn rs_function(val:c_int) {
     println!("triggered Rust function with: {}", val);
