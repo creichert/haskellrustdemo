@@ -3,9 +3,6 @@
 #+DATE:   Sat, Dec 13, 2014
 
 
-* Embedding Rust Libraries in Haskell
-
-
 ** Build and Run
 
   *The Rust and GHC Haskell compiler needs to be in your PATH*
