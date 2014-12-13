@@ -5,7 +5,7 @@
 
 ** Build and Run
 
-  *The Rust and GHC Haskell compiler needs to be in your PATH*
+  *The Rust and GHC Haskell compiler need to be in PATH*
 #+BEGIN_SRC sh
   $ make
   $ make run
