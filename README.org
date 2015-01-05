@@ -1,6 +1,6 @@
 #+AUTHOR: Christopher Reichert
 #+TITLE:  Embed Rust in Haskell
-#+DATE:   Sat, Dec 13, 2014
+#+DATE:   Sat, Dec 13 2014
 
 
 ** Build and Run
