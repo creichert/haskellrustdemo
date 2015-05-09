@@ -59,8 +59,8 @@ cffi: cargo
 cargo:
 	@[ -x ${RUSTC} ] || ($(ECHO) "ERROR: rust compiler (rustc) not found" && exit 1)
 	@$(CARGO) build -v
-	@ln -fs target/*.so librslib.so
-	@ln -fs target/*.a  librslib.a
+	@ln -fs target/debug/*.so librslib.so
+	@ln -fs target/debug/*.a  librslib.a
 
 
 clean:
