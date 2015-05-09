@@ -7,3 +7,6 @@ authors = [ "creichert07@gmail.com" ]
 name = "rslib"
 path = "lib.rs"
 crate-type = ["dylib", "staticlib"]
+
+[dependencies]
+libc = "0.1.7"
