@@ -3,6 +3,8 @@
 #+DATE:   Sat, Dec 13 2014
 
 
+**VERY OLD** This project has not been kept up to date with the latest Rust version. If anyone wants to contribute an update, that would be very helpful to others who find this link through Google.
+
 ** Build and Run
 
   *The Rust and GHC Haskell compiler need to be in PATH*
