@@ -6,7 +6,7 @@ license:             MIT
 license-file:        LICENSE
 author:              Christopher Reichert
 maintainer:          creichert07@gmail.com
-copyright:           (c) 2014 Christopher Reichert
+copyright:           (c) 2014-2018 Christopher Reichert
 category:            FFI
 build-type:          Simple
 extra-source-files:  README.org test.c lib.rs
